@@ -1,17 +1,13 @@
-# smwa-project
+
 _A simple student management web application with CRUD operations developed in Django and React Js_
 
-## Requirements
-Make sure you have python and Node js installed on your system:
-- [Python version 3.9.13](https://www.python.org/downloads/release/python-3913/) 
-- [Node version 16.7.1](https://nodejs.org/en/download/)
 
 
 ## Project Setup
 
 - Clone the repository in a local folder
     ```sh
-    git clone https://github.com/fizaashraf37/smwa-project.git 
+  git clone https://github.com/Allan-Kipkemei/students.git
     ```
 - Open terminal and verify python version
   ```sh
